@@ -1,9 +1,0 @@
-__pycache__/
-*.py[cod]
-*.db
-.env
-.venv/
-uploads/*
-!uploads/.gitkeep
-exports/*
-!exports/.gitkeep
