@@ -1,3 +1,4 @@
+
 # 医学统计 AI 助手 (Medical Statistics AI Assistant)
 
 基于 AI + LangGraph 的智能医学统计分析平台。上传临床数据 → 数据清洗 → 自然语言描述需求 → 自动生成论文级统计结果。
@@ -157,3 +158,6 @@ frontend/
 | POST | `/api/v1/prompts` | 创建模板 |
 | PUT | `/api/v1/prompts/{id}` | 更新模板 |
 | DELETE | `/api/v1/prompts/{id}` | 删除模板 |
+
+# agent 个人demo
+bdf68688e3154d9f4c9b58246e3f02d1e09ee40b
